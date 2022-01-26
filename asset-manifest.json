@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formula-artmill/static/css/main.2e1e4595.css",
+    "main.js": "/formula-artmill/static/js/main.de715765.js",
+    "static/js/787.6b1fe68c.chunk.js": "/formula-artmill/static/js/787.6b1fe68c.chunk.js",
+    "index.html": "/formula-artmill/index.html",
+    "main.2e1e4595.css.map": "/formula-artmill/static/css/main.2e1e4595.css.map",
+    "main.de715765.js.map": "/formula-artmill/static/js/main.de715765.js.map",
+    "787.6b1fe68c.chunk.js.map": "/formula-artmill/static/js/787.6b1fe68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1e4595.css",
+    "static/js/main.de715765.js"
+  ]
+}
